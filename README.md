@@ -10,7 +10,6 @@
 )]( https://www.instagram.com/alisson.siqueira.3/?hl=pt-br )
 
 
-![Alisson Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonSiqueira55&show_icons=true&theme=radical)
 
 
 ## tecnologias que uso!
