@@ -20,6 +20,10 @@
 "/>
 <img align="center" alt="javaScrip" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img align="center" alt="Java" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+"/>
+
+
 
 </div> <br/>
 Estou estudando Analise e Desenvolvimedo de Sistemas sou entusiasta da tecnologia ,tenho conhecimento em html, css e me aprofundando no javascript, na parte de automação tenho conhecimento em Java, Selenium e WebDriver sou muito focado e busco sempre aumentar o meu conhecimento.
